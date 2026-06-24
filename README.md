@@ -58,13 +58,10 @@ Das Repository enthält:
 
 ## Repository-Inhalt
 
-* sentiment_analysis.py – Hauptprogramm
-* confusion_matrix_logistic.png – Confusion Matrix
-* bewertungsverteilung.png – Verteilung der Sternebewertungen
-* sentiment_verteilung.png – Verteilung der Sentimentklassen
-* kategorien.csv – Verwendete Produktkategorien
-* modellvergleich.csv – Vergleich der Modelle
-* train_test_verteilung.csv – Verteilung der Trainings- und Testdaten
+- README.md – Projektbeschreibung
+- src/sentiment_analysis.py – Hauptprogramm
+- images/ – Visualisierungen
+- results/ – Auswertungstabellen und Ergebnisse
 
 ## Autor
 
